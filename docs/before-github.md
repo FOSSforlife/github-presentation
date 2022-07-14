@@ -52,7 +52,7 @@ Now they have a problem. **A** and **B** have both modified the code, and they b
 In this above case, this is relatively easy, because they've both edited different lines of the file. So with some manual copying and pasting, they can get the code to look like this:
 
 ```python
-def welcome_greeting(username):
+def welcome_greeting():
     print("Hello User! Thank you for using This Software Application!")
 
 welcome_greeting()
