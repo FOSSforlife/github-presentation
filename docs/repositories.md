@@ -11,3 +11,5 @@ Some example repositories for open source projects:
 - [Audacity](https://github.com/audacity/audacity/)
 - [Chromium](https://github.com/chromium/chromium)
 - [WordPress](https://github.com/WordPress/WordPress)
+- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
+- [Awesome](https://github.com/sindresorhus/awesome)
