@@ -10,3 +10,4 @@
 - [Pages](https://pages.github.com/): A hosting platform for websites.
 - [Projects](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards): A project management tool that organizes and tracks issues across repos.
 - [Profiles](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme): Create a README for your personal page which contains a bio and some projects that you're currently working on.
+- [And many more!](https://github.com/features/)
