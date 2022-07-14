@@ -2,7 +2,7 @@
 hide_table_of_contents: true
 ---
 
-# Branches and Pull Requests
+# Branches
 
 ## No More of This!
 
@@ -10,7 +10,9 @@ hide_table_of_contents: true
 
 ## What are Branches?
 
-Branches are copies of the code that exist in different states. For example, a repository might have:
+Branches are copies of the code that exist in different states. This allows you to make changes while keeping the codebase safe.
+
+For example, a repository might have:
 
 - A `main` or `master` branch which contains the currently published version of the code.
 - A `develop` branch to test changes before they go to `main`.
