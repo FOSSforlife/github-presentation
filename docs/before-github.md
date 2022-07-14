@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 - Git was first released in 2005.
 - GitHub was first released in 2008.
-- Software development in large teams sucked before then.
+- Software development in large teams was not fun before then.
 
 :::
 

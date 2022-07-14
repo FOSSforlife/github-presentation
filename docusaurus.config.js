@@ -62,19 +62,12 @@ const config = {
         },
       },
       navbar: {
-        title: "My Site",
+        title: "GitHub Presentation",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
         },
         items: [
-          {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Tutorial",
-          },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/FOSSforlife/github-presentation",
             label: "GitHub",

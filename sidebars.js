@@ -20,8 +20,15 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: "category",
-      label: "Tutorial",
-      items: ["intro", "before-github", "repositories"],
+      label: "Slides",
+      items: [
+        "intro",
+        "before-github",
+        "repositories",
+        "how-to",
+        "branches",
+        "pull-requests",
+      ],
     },
   ],
 };

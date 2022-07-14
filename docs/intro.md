@@ -3,15 +3,14 @@ sidebar_position: 1
 hide_table_of_contents: true
 ---
 
-# GitHub
+# What is GitHub?
 
-<details>
-<summary>GitHub is...</summary>
-A code hosting site
+- A website that software teams and individual software developers use for hosting code and collaborating on it.
+  - Like Google Docs, but for code.
+- ...
 
-</details>
-<details>
-<summary>GitHub is...</summary>
-A notebook
+## About GitHub
 
-</details>
+- It is based on a collaboration and version control tool called Git, which can also be used outside of GitHub.
+- The goal of Git and GitHub is to enable software teams to manage codebases both small and large.
+- It keeps track of all changes made, helps keep your code in a working condition, and eases the process of making changes over time.
