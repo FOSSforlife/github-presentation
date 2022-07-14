@@ -9,7 +9,7 @@ const config = {
   title: "GitHub Presentation",
   tagline: "By Elias Jackson",
   url: "https://fossforlife.github.io",
-  baseUrl: "/",
+  baseUrl: "/github-presentation/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
