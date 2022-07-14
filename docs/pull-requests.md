@@ -23,6 +23,10 @@ To do so, the branches must be mergeable.
 
 - If the base branch has had changes in the same places as your changes, you must resolve the [merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts) and then your pull request will be mergeable.
 
+#### Resolving a Merge Conflict
+
+![Resolving merge conflicts in Visual Studio Code](https://code.visualstudio.com/assets/docs/editor/versioncontrol/merge-conflict.png)
+
 ## Example Flow
 
 1. Start a feature by creating a new branch called `feature-1` off of the `develop` branch.
