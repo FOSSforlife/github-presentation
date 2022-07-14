@@ -30,9 +30,9 @@ To do so, the branches must be mergeable.
 ## Example Flow
 
 1. Start a feature by creating a new branch called `feature-1` off of the `develop` branch.
-2. Make your code changes inside this `feature-2` branch.
-3. To prepare for your pull request by making sure the `feature-1` branch is up-to-date and resolving any merge conflicts.
+2. Make your code changes inside this `feature-1` branch.
+3. Prepare for your pull request by making sure the `feature-1` branch is up-to-date and resolving any merge conflicts.
 4. Once ready, a pull request to merge `feature-1` to `develop`.
-5. Once approved, the code owners will merge `feature-1` into `develop`, and delete the `feature-1` branvh.
+5. Once approved, the code owners will merge `feature-1` into `develop`, and delete the `feature-1` branch.
 6. The code owners will test the new code on the `develop` branch.
 7. Once they're confident that the code is in good shape, they will merge the changes from `develop` to `main` by making another pull request.
