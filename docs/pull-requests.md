@@ -8,7 +8,7 @@ When you're ready to merge your changes into the project, you'll need to make a 
 
 To do so, the branches must be mergeable.
 
-## Mergability
+## Mergeability
 
 ### Ready to Merge
 
