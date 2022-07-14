@@ -1,6 +1,12 @@
+---
+hide_table_of_contents: true
+---
+
 # Pull Requests
 
-When you make a pull request, for example from `feature-1` to `develop`, you are **_requesting_** for the `develop` branch to **_pull_** in changes from `feature-1`.
+When you make a pull request, for example from the `feature-1` branch to the `develop` branch, you are **_requesting_** for the `develop` branch to **_pull_** in changes from `feature-1`.
+
+To do so, the branches must be mergeable.
 
 ## Mergability
 
@@ -16,3 +22,13 @@ When you make a pull request, for example from `feature-1` to `develop`, you are
 ![Conflicts](./assets/conflicts.png)
 
 - If the base branch has had changes in the same places as your changes, you must resolve the [merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts) and then your pull request will be mergeable.
+
+## Example Flow
+
+1. Start a feature by creating a new branch called `feature-1` off of the `develop` branch.
+2. Make your code changes inside this `feature-1` branch.
+3. To prepare for your pull request by making sure the `feature-1` branch is up-to-date and resolving any merge conflicts.
+4. Once ready, a pull request to merge `feature-1` to `develop`.
+5. Once approved, the `develop` branch will be updated with the new code and the `feature-1` branch can be deleted.
+6. The code owners will test the new code on the `develop` branch.
+7. Once they're confident that the code is in good shape, they will merge the changes from `develop` to `main` by making another pull request.
